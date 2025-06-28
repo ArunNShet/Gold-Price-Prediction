@@ -1,22 +1,6 @@
-# 🪙 Gold Price Prediction Using Machine Learning
+# Gold Price Prediction Using Machine Learning
 
 Gold is considered a safe-haven asset and plays a vital role in the global economy. Accurately predicting gold prices helps investors and traders make informed decisions. This project utilizes machine learning algorithms to forecast gold prices based on historical data and market indicators.
-
-## 📌 Table of Contents
-
-- [Project Overview](#project overview)
-- [Tech Stack](#tech stack)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Algorithms Used](#algorithms-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Screenshots](#screenshots)
-- [Contributors](#contributors)
-- [License](#license)
-
----
 
 ## 📖 Project Overview
 
