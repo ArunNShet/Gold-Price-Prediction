@@ -4,8 +4,8 @@ Gold is considered a safe-haven asset and plays a vital role in the global econo
 
 ## 📌 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Tech Stack](#tech-stack)
+- [Project Overview](#project overview)
+- [Tech Stack](#tech stack)
 - [Features](#features)
 - [Dataset](#dataset)
 - [Algorithms Used](#algorithms-used)
